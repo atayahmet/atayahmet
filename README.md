@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @atayahmet
 - 👀 I’m interested in Web Technologies
-- 🌱 I’m currently learning Parser Algorithms
 - 💞️ I’m looking to collaborate on OSS
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/ahmet-atay-48688a53/)
 
